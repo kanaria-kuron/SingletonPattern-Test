@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Project Ignore
+SingletonTest/.vs
+SingletonTest/Debug
